@@ -1,30 +1,22 @@
-# 在线学习Flutter应用
+# onlinelearning
 
-这是一个使用Flutter开发的在线学习应用，支持多平台部署。
+A new Flutter project.
 
-## 项目特点
+## Getting Started
 
-- 使用GetX进行状态管理和路由
-- 支持多语言国际化
-- 自适应主题切换
-- 完整的用户认证系统
-- 课程浏览和学习功能
+This project is a starting point for a Flutter application.
 
-## 技术栈
+A few resources to get you started if this is your first Flutter project:
 
-- Flutter SDK: ^3.6.2
-- GetX: ^4.7.2
-- Dio: ^5.8.0+1
-- 其他依赖请查看pubspec.yaml文件
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 开始使用
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
-1. 克隆仓库
-2. 运行 `flutter pub get` 安装依赖
-3. 运行 `flutter run` 启动应用
+#### step 1
 
-## 项目结构
-
-- lib/common: 公共组件、工具和服务
-- lib/models: 数据模型
-- lib/pages: 应用页面
+data := map[string]interface{}{
+  "status": code,
+ }

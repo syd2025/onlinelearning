@@ -1,0 +1,11 @@
+export 'category/category_index/index.dart';
+export 'goods/home/index.dart';
+export 'my/my_index/index.dart';
+export 'my/profile_setting/index.dart';
+export 'study/study_index/index.dart';
+export 'system/login/index.dart';
+export 'system/main/index.dart';
+export 'system/register/index.dart';
+export 'system/splash/index.dart';
+export 'system/welcome/index.dart';
+export '';

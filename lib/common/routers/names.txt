@@ -1,0 +1,10 @@
+static const categoryCategoryIndex = '/category_category_index';
+static const goodsHome = '/goods_home';
+static const myMyIndex = '/my_my_index';
+static const myProfileSetting = '/my_profile_setting';
+static const studyStudyIndex = '/study_study_index';
+static const systemLogin = '/system_login';
+static const systemMain = '/system_main';
+static const systemRegister = '/system_register';
+static const systemSplash = '/system_splash';
+static const systemWelcome = '/system_welcome';

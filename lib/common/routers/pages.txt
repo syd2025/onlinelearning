@@ -1,0 +1,41 @@
+
+      GetPage(
+        name: RouteNames.categoryCategoryIndex,
+        page: () => const CategoryIndexPage(),
+      ),
+      GetPage(
+        name: RouteNames.goodsHome,
+        page: () => const HomePage(),
+      ),
+      GetPage(
+        name: RouteNames.myMyIndex,
+        page: () => const MyIndexPage(),
+      ),
+      GetPage(
+        name: RouteNames.myProfileSetting,
+        page: () => const ProfileSettingPage(),
+      ),
+      GetPage(
+        name: RouteNames.studyStudyIndex,
+        page: () => const StudyIndexPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemLogin,
+        page: () => const LoginPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemMain,
+        page: () => const MainPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemRegister,
+        page: () => const RegisterPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemSplash,
+        page: () => const SplashPage(),
+      ),
+      GetPage(
+        name: RouteNames.systemWelcome,
+        page: () => const WelcomePage(),
+      ),

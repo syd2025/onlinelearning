@@ -1,0 +1,4 @@
+static const navCateSvg = 'assets/svgs/nav-cate.svg';
+static const navHomeSvg = 'assets/svgs/nav-home.svg';
+static const navProfileSvg = 'assets/svgs/nav-profile.svg';
+static const navStudySvg = 'assets/svgs/nav-study.svg';
