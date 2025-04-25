@@ -15,8 +15,12 @@ Icon?
 profile
 xcuserdata
 **/.generated/
+**/Pods/
 Flutter/App.framework
 Flutter/Flutter.framework
+xcuserdata
+*.pbxuser
+*.mode1v3
 Flutter/Flutter.podspec
 Flutter/Generated.xcconfig
 Flutter/ephemeral/
