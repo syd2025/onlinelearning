@@ -12,8 +12,9 @@ class ProfessionModel {
     required this.title,
   });
 
-  factory ProfessionModel.fromJson(Map<String, dynamic> json) =>
-      _$ProfessionModelFromJson(json);
+  factory ProfessionModel.fromJson(Map<String, dynamic> json) {
+    return _$ProfessionModelFromJson(json);
+  }
 
   Map<String, dynamic> toJson() => _$ProfessionModelToJson(this);
 }
